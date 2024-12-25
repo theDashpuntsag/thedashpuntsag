@@ -1,6 +1,6 @@
 # About Me
 
-Hello, I'm Dash, a software engineer driven by a deep passion for science and technology. My journey in software engineering is fueled by an enduring fascination with how technology can shape the future. I am not just committed to developing software. I aspire to be a world-class engineer whose work adds significant value on a global scale. I approach every project with a blend of analytical thinking and creative problem-solving. I believe in the power of teamwork and the importance of continuous learning to stay abreast of the ever-evolving technological landscape.I am always eager to connect with fellow tech enthusiasts, share insights, and explore new opportunities in software development. Feel free to reach out to me for collaborations, discussions, or just a chat about the latest in tech!
+Hello, I'm Dash, a software engineer driven by a deep passion for science and technology. My journey in software engineering is fueled by an enduring fascination with how technology can shape the future. I am not just committed to developing software. I aspire to be a world-class engineer whose work adds significant value on a global scale. I approach every project with a blend of analytical thinking and creative problem-solving. I believe in the power of teamwork and the importance of continuous learning to stay abreast of the ever-evolving technological landscape. I am always eager to connect with fellow tech enthusiasts, share insights, and explore new opportunities in software development.
 
 ## Technologies
 
